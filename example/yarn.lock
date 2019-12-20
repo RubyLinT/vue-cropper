@@ -2709,8 +2709,8 @@ lru-cache@^4.1.1:
     yallist "^2.1.2"
 
 macaddress@^0.2.8:
-  version "0.2.8"
-  resolved "https://registry.yarnpkg.com/macaddress/-/macaddress-0.2.8.tgz#5904dc537c39ec6dbefeae902327135fa8511f12"
+  version "0.2.9"
+  resolved "https://registry.yarnpkg.com/macaddress/-/macaddress-0.2.9.tgz#3579b8b9acd5b96b4553abf0f394185a86813cb3"
 
 map-cache@^0.2.2:
   version "0.2.2"
@@ -4526,9 +4526,11 @@ vm-browserify@0.0.4:
   dependencies:
     indexof "0.0.1"
 
-vu@^0.0.0:
-  version "0.0.0"
-  resolved "https://registry.yarnpkg.com/vu/-/vu-0.0.0.tgz#27f40c2af8222063789580bb6c67cf662b61f0b0"
+vue-cropper@^0.3.1:
+  version "0.3.9"
+  resolved "https://registry.yarnpkg.com/vue-cropper/-/vue-cropper-0.3.9.tgz#cdc39dd835f6c540d85b6eee59203c9ac364fe89"
+  dependencies:
+    exif-js "^2.3.0"
 
 vue-hot-reload-api@^2.2.0:
   version "2.3.0"
